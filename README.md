@@ -11,7 +11,6 @@ Back end application that provides API endpoints to create, read, update, and de
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#Contributing)
-- [Testing](#Testing)
 - [Questions](#Questions)
 - [License](#License)
 
@@ -41,10 +40,6 @@ npm run watch
 ## Contributing
 
 To contribute, contact me via one of the links below!
-
-## Testing
-
-no tests specified
 
 ## Questions
 

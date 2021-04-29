@@ -34,7 +34,8 @@ npm run seed
 
 ## Usage
 
-NOTE: This application uses the Dotenv module to load environment variables from a .env file
+NOTE: This application uses the Dotenv module to load environment variables from a .env file.
+
 To use, create a .env file in the root folder and populate it as below:
 ```
 DB_USER='YOUR USERNAME'

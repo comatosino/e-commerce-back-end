@@ -36,7 +36,7 @@ npm run seed
 
 NOTE: This application uses the Dotenv module to load environment variables from a .env file.
 
-To use, create a .env file in the root folder and populate it as below:
+To use, create a .env file in the root folder following the below template and populate with your database credentials.
 ```
 DB_USER='YOUR USERNAME'
 DB_PW='YOUR PASSWORD'
@@ -47,13 +47,13 @@ To run:
 ```
 npm start
 ```
-with Nodemon:
+OR with Nodemon:
 ```
 npm run watch
 ```
 Click the gif below for a video demo!
 
-[![link to video](./assets/images/e-commerce-backend.gif)](https://drive.google.com/file/d/1eCx1ITDIWLTwsx-tIBMbdGKAru4zVH19/view)
+[![link to video](./assets/images/e-commerce-backend.gif)](https://drive.google.com/file/d/1uPjk8Vu3aoqZCt498QpyyYKtoABRlccG/view)
 
 ## Contributing
 
